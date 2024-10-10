@@ -4,7 +4,7 @@ import { withMermaid } from "vitepress-plugin-mermaid";
 export default withMermaid({
   title: 'Code Automation',
   description: 'A brief description of my docs',
-  base: '/docs/',
+  base: '/codeautomation_docs/',
   themeConfig: {
     sidebar: {
       '/': [
